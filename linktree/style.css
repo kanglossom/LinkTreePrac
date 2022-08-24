@@ -1,0 +1,62 @@
+
+body{
+  background-color: rgb(19, 33, 60);
+  margin: 0px;
+  padding: 0px;
+
+
+
+}
+
+h4{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+a{
+  color: white;
+  text-decoration-line: none;
+}
+
+.profile{
+  text-align: center;
+}
+
+.probox{
+  border-radius: 70%;
+  width: 200px;
+  height: 200px;
+  display: block;
+  text-align: center;
+
+}
+
+#proimg, #proimg img{
+  width: 200px;
+  height: 200px;
+  display: block;
+  position: relative;
+  border-radius: 70%;
+}
+
+
+
+ .links{
+   text-align: center;
+   max-width: 600px;
+   width: auto;
+ }
+
+.links button {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  height: auto;
+  width: auto;
+  padding: 1em;
+  margin-bottom: 2em;
+
+}
